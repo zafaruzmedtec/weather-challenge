@@ -5,7 +5,7 @@ INSTRUCTION TO USE:
 
 1. Install libriries: pip install -r requirements.txt
 
-2. Register in https://darksky.net/dev and put your "Secret Key" here:
+2. Open main.py Python script and run. Register in https://darksky.net/dev and put your own "Secret Key" here:
 API_KEY = 'ab7ddfe913d5af4489a00847a7461ecb'
 
 3. Put True - If you want to get the current weather information for 5 cities and save them into the “weather” table:
